@@ -19,7 +19,7 @@ const Sobre = () => {
 
             <div className='stage-cube-cont'>
                     <div className='cubespinner'>
-                        <div className='face1'>
+                        <div className='face5'>
                             <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
                         </div>
                         <div className='face2'>
@@ -28,7 +28,7 @@ const Sobre = () => {
                         <div className='face3'>
                             <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
                         </div>
-                        <div className='face4'>
+                        <div className='face6'>
                             <FontAwesomeIcon icon={faJs} color="rgb(216, 151, 0)" />
                         </div>
                        /* <div className='face5'>
