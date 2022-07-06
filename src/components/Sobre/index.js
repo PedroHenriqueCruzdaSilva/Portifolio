@@ -31,12 +31,6 @@ const Sobre = () => {
                         <div className='face6'>
                             <FontAwesomeIcon icon={faJs} color="rgb(216, 151, 0)" />
                         </div>
-                       /* <div className='face1'>
-                            <FontAwesomeIcon icon={faJava} color="#DD0031" />
-                        </div>
-                        <div className='face4'>
-                            <FontAwesomeIcon icon={faPhp} color="#491095" />
-                        </div> */
                     </div>
                 </div>
             </div>
